@@ -3452,8 +3452,8 @@ table span.badge {
 }
 
 .section {
-  padding-top: 1rem;
-  padding-bottom: 1rem;
+  padding-top: 0.3rem;
+  padding-bottom: 0.5rem;
 }
 
 .section.no-pad {
@@ -4535,13 +4535,13 @@ h2 {
 }
 
 h3 {
-  font-size: 1.8rem;
+  font-size: 1.5rem;
   line-height: 110%;
   margin: 1.9466666667rem 0 1.168rem 0;
 }
 
 h4 {
-  font-size: 1.4rem;
+  font-size: 1.3rem;
   line-height: 110%;
   margin: 1.52rem 0 0.912rem 0;
 }
