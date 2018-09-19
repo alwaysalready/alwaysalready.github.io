@@ -4585,6 +4585,10 @@ small {
   font-weight: 200;
 }
 
+.heavy {
+  font-weight: 800;
+}
+
 @media only screen and (min-width: 360px) {
   .flow-text {
     font-size: 1.2rem;
