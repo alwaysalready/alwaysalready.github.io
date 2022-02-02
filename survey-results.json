@@ -8,7 +8,7 @@
     "lgbq+": "No",
     "racial-ethnic": "Indian",
     "age-group": "18-24",
-    "education": "College degree - Associate or Bachelor’s (for example: AA, AS, BA, BS)",
+    "education": "6-College degree",
     "diagnosis": "I do not suffer from any of the following conditions",
     "impairment": "",
     "minority-group": "No"
@@ -22,7 +22,7 @@
     "lgbq+": "No",
     "racial-ethnic": "Indian",
     "age-group": "18-24",
-    "education": "Below class 12",
+    "education": "1-Below class 12",
     "diagnosis": "I do not suffer from any of the following conditions",
     "impairment": "",
     "minority-group": "No"
@@ -36,7 +36,7 @@
     "lgbq+": "No",
     "racial-ethnic": "Indian",
     "age-group": "18-24",
-    "education": "College degree - Associate or Bachelor’s (for example: AA, AS, BA, BS)",
+    "education": "6-College degree",
     "diagnosis": "I do not suffer from any of the following conditions",
     "impairment": "",
     "minority-group": "No"
@@ -50,7 +50,7 @@
     "lgbq+": "No",
     "racial-ethnic": "Indian",
     "age-group": "18-24",
-    "education": "College degree - Associate or Bachelor’s (for example: AA, AS, BA, BS)",
+    "education": "6-College degree",
     "diagnosis": "I do not suffer from any of the following conditions",
     "impairment": "",
     "minority-group": "No"
@@ -64,7 +64,7 @@
     "lgbq+": "Prefer not to answer",
     "racial-ethnic": "Indian",
     "age-group": "18-24",
-    "education": "Graduate or Professional degree (for example: MA, MS, MEng, MEd, MSW, MBA, MD, DDS, DVM, LLB, JD, PhD, EdD)",
+    "education": "8-Graduate or Professional degree",
     "diagnosis": "I do not suffer from any of the following conditions",
     "impairment": "",
     "minority-group": "No"
@@ -78,7 +78,7 @@
     "lgbq+": "Yes",
     "racial-ethnic": "Indian",
     "age-group": "18-24",
-    "education": "College degree - Associate or Bachelor’s (for example: AA, AS, BA, BS)",
+    "education": "6-College degree",
     "diagnosis": "I do not suffer from any of the following conditions",
     "impairment": "",
     "minority-group": "No"
@@ -92,7 +92,7 @@
     "lgbq+": "No",
     "racial-ethnic": "Latino, Hispanic or Spanish Origin",
     "age-group": "18-24",
-    "education": "College degree - Associate or Bachelor’s (for example: AA, AS, BA, BS)",
+    "education": "6-College degree",
     "diagnosis": "I do not suffer from any of the following conditions",
     "impairment": "",
     "minority-group": "Yes"
@@ -106,7 +106,7 @@
     "lgbq+": "Prefer Not To Say",
     "racial-ethnic": "Other",
     "age-group": "18-24",
-    "education": "College degree - Associate or Bachelor’s (for example: AA, AS, BA, BS)",
+    "education": "6-College degree",
     "diagnosis": "I do not suffer from any of the following conditions",
     "impairment": "",
     "minority-group": "Prefer not to answer"
@@ -120,7 +120,7 @@
     "lgbq+": "No",
     "racial-ethnic": "Indian",
     "age-group": "18-24",
-    "education": "Under graduate / Some college but no degree",
+    "education": "4-Under graduate",
     "diagnosis": "I do not suffer from any of the following conditions",
     "impairment": "No",
     "minority-group": ""
@@ -134,7 +134,7 @@
     "lgbq+": "No",
     "racial-ethnic": "Indian",
     "age-group": "18-24",
-    "education": "College degree - Associate or Bachelor’s (for example: AA, AS, BA, BS)",
+    "education": "6-College degree",
     "diagnosis": "Hearing loss",
     "impairment": "Hard of hearing or D/deaf",
     "minority-group": ""
@@ -148,7 +148,7 @@
     "lgbq+": "No",
     "racial-ethnic": "Black or African American",
     "age-group": "18-24",
-    "education": "College degree - Associate or Bachelor’s (for example: AA, AS, BA, BS)",
+    "education": "6-College degree",
     "diagnosis": "Yes",
     "impairment": "",
     "minority-group": ""
@@ -162,7 +162,7 @@
     "lgbq+": "No",
     "racial-ethnic": "Indian",
     "age-group": "18-24",
-    "education": "College degree - Associate or Bachelor’s (for example: AA, AS, BA, BS)",
+    "education": "6-College degree",
     "diagnosis": "I do not suffer from any of the following conditions",
     "impairment": "Cognitive diffilulty",
     "minority-group": ""
@@ -176,7 +176,7 @@
     "lgbq+": "No",
     "racial-ethnic": "American Indian or Alaska Native",
     "age-group": "18-24",
-    "education": "High school (degree or GED) or some college (no degree)",
+    "education": "3-High school",
     "diagnosis": "",
     "impairment": "",
     "minority-group": ""
@@ -190,7 +190,7 @@
     "lgbq+": "No",
     "racial-ethnic": "Middle Eastern or North African",
     "age-group": "18-24",
-    "education": "High school (degree or GED) or some college (no degree)",
+    "education": "3-High school",
     "diagnosis": "Yes",
     "impairment": "",
     "minority-group": ""
@@ -204,7 +204,7 @@
     "lgbq+": "No",
     "racial-ethnic": "Indian",
     "age-group": "18-24",
-    "education": "College degree - Associate or Bachelor’s (for example: AA, AS, BA, BS)",
+    "education": "6-College degree",
     "diagnosis": "I do not suffer from any of the following conditions",
     "impairment": "cognitive diffilulty",
     "minority-group": ""
@@ -218,7 +218,7 @@
     "lgbq+": "No",
     "racial-ethnic": "Latino, Hispanic or Spanish Origin",
     "age-group": "18-24",
-    "education": "High school (degree or GED) or some college (no degree)",
+    "education": "3-High school",
     "diagnosis": "Yes",
     "impairment": "",
     "minority-group": ""
@@ -232,7 +232,7 @@
     "lgbq+": "No",
     "racial-ethnic": "Native Hawaiian or other Pacific Islander",
     "age-group": "18-24",
-    "education": "College degree - Associate or Bachelor’s (for example: AA, AS, BA, BS)",
+    "education": "6-College degree",
     "diagnosis": "Yes",
     "impairment": "",
     "minority-group": ""
@@ -246,7 +246,7 @@
     "lgbq+": "No",
     "racial-ethnic": "Indian",
     "age-group": "18-24",
-    "education": "College degree - Associate or Bachelor’s (for example: AA, AS, BA, BS)",
+    "education": "6-College degree",
     "diagnosis": "I do not suffer from any of the following conditions",
     "impairment": "No",
     "minority-group": ""
@@ -260,7 +260,7 @@
     "lgbq+": "No",
     "racial-ethnic": "Indian",
     "age-group": "25-34",
-    "education": "Graduate or Professional degree (for example: MA, MS, MEng, MEd, MSW, MBA, MD, DDS, DVM, LLB, JD, PhD, EdD)",
+    "education": "8-Graduate or Professional degree",
     "diagnosis": "I do not suffer from any of the following conditions",
     "impairment": "",
     "minority-group": "No"
@@ -274,7 +274,7 @@
     "lgbq+": "No",
     "racial-ethnic": "Indian",
     "age-group": "25-34",
-    "education": "College degree - Associate or Bachelor’s (for example: AA, AS, BA, BS)",
+    "education": "6-College degree",
     "diagnosis": "I do not suffer from any of the following conditions",
     "impairment": "",
     "minority-group": "No"
@@ -288,7 +288,7 @@
     "lgbq+": "No",
     "racial-ethnic": "Indian",
     "age-group": "25-34",
-    "education": "Graduate or Professional degree (for example: MA, MS, MEng, MEd, MSW, MBA, MD, DDS, DVM, LLB, JD, PhD, EdD)",
+    "education": "8-Graduate or Professional degree",
     "diagnosis": "I do not suffer from any of the following conditions",
     "impairment": "",
     "minority-group": "No"
@@ -302,7 +302,7 @@
     "lgbq+": "No",
     "racial-ethnic": "Indian",
     "age-group": "25-34",
-    "education": "College degree - Associate or Bachelor’s (for example: AA, AS, BA, BS)",
+    "education": "6-College degree",
     "diagnosis": "I do not suffer from any of the following conditions",
     "impairment": "",
     "minority-group": "No"
@@ -316,7 +316,7 @@
     "lgbq+": "No",
     "racial-ethnic": "Indian",
     "age-group": "25-34",
-    "education": "College degree - Associate or Bachelor’s (for example: AA, AS, BA, BS)",
+    "education": "6-College degree",
     "diagnosis": "I do not suffer from any of the following conditions",
     "impairment": "",
     "minority-group": "No"
@@ -330,7 +330,7 @@
     "lgbq+": "Prefer not to answer",
     "racial-ethnic": "Indian",
     "age-group": "25-34",
-    "education": "Graduate or Professional degree (for example: MA, MS, MEng, MEd, MSW, MBA, MD, DDS, DVM, LLB, JD, PhD, EdD)",
+    "education": "8-Graduate or Professional degree",
     "diagnosis": "I do not suffer from any of the following conditions",
     "impairment": "",
     "minority-group": "No"
@@ -344,7 +344,7 @@
     "lgbq+": "No",
     "racial-ethnic": "Indian",
     "age-group": "25-34",
-    "education": "Graduate or Professional degree (for example: MA, MS, MEng, MEd, MSW, MBA, MD, DDS, DVM, LLB, JD, PhD, EdD)",
+    "education": "8-Graduate or Professional degree",
     "diagnosis": "I do not suffer from any of the following conditions",
     "impairment": "",
     "minority-group": "No"
@@ -358,7 +358,7 @@
     "lgbq+": "No",
     "racial-ethnic": "Indian",
     "age-group": "25-34",
-    "education": "Graduate or Professional degree (for example: MA, MS, MEng, MEd, MSW, MBA, MD, DDS, DVM, LLB, JD, PhD, EdD)",
+    "education": "8-Graduate or Professional degree",
     "diagnosis": "Prefer not to answer",
     "impairment": "",
     "minority-group": "Prefer not to answer"
@@ -372,7 +372,7 @@
     "lgbq+": "No",
     "racial-ethnic": "Indian",
     "age-group": "25-34",
-    "education": "College degree - Associate or Bachelor’s (for example: AA, AS, BA, BS)",
+    "education": "6-College degree",
     "diagnosis": "I do not suffer from any of the following conditions",
     "impairment": "",
     "minority-group": "No"
@@ -386,7 +386,7 @@
     "lgbq+": "No",
     "racial-ethnic": "Asian",
     "age-group": "25-34",
-    "education": "Graduate or Professional degree (for example: MA, MS, MEng, MEd, MSW, MBA, MD, DDS, DVM, LLB, JD, PhD, EdD)",
+    "education": "8-Graduate or Professional degree",
     "diagnosis": "I do not suffer from any of the following conditions",
     "impairment": "",
     "minority-group": "Yes"
@@ -400,7 +400,7 @@
     "lgbq+": "No",
     "racial-ethnic": "American Indian or Alaska Native",
     "age-group": "25-34",
-    "education": "College degree - Associate or Bachelor’s (for example: AA, AS, BA, BS)",
+    "education": "6-College degree",
     "diagnosis": "I do not suffer from any of the following conditions",
     "impairment": "",
     "minority-group": "No"
@@ -414,7 +414,7 @@
     "lgbq+": "No",
     "racial-ethnic": "White",
     "age-group": "25-34",
-    "education": "College degree - Associate or Bachelor’s (for example: AA, AS, BA, BS)",
+    "education": "6-College degree",
     "diagnosis": "I do not suffer from any of the following conditions",
     "impairment": "",
     "minority-group": "No"
@@ -428,7 +428,7 @@
     "lgbq+": "No",
     "racial-ethnic": "Asian",
     "age-group": "25-34",
-    "education": "College degree - Associate or Bachelor’s (for example: AA, AS, BA, BS)",
+    "education": "6-College degree",
     "diagnosis": "I do not suffer from any of the following conditions",
     "impairment": "",
     "minority-group": "No"
@@ -442,7 +442,7 @@
     "lgbq+": "No",
     "racial-ethnic": "Asian",
     "age-group": "25-34",
-    "education": "College degree - Associate or Bachelor’s (for example: AA, AS, BA, BS)",
+    "education": "6-College degree",
     "diagnosis": "I do not suffer from any of the following conditions",
     "impairment": "",
     "minority-group": "Yes"
@@ -456,7 +456,7 @@
     "lgbq+": "No",
     "racial-ethnic": "Latino, Hispanic or Spanish Origin",
     "age-group": "25-34",
-    "education": "College degree - Associate or Bachelor’s (for example: AA, AS, BA, BS)",
+    "education": "6-College degree",
     "diagnosis": "I do not suffer from any of the following conditions",
     "impairment": "",
     "minority-group": "No"
@@ -470,7 +470,7 @@
     "lgbq+": "No",
     "racial-ethnic": "White",
     "age-group": "25-34",
-    "education": "College degree - Associate or Bachelor’s (for example: AA, AS, BA, BS)",
+    "education": "6-College degree",
     "diagnosis": "I do not suffer from any of the following conditions",
     "impairment": "",
     "minority-group": "No"
@@ -484,7 +484,7 @@
     "lgbq+": "No",
     "racial-ethnic": "Black or African American",
     "age-group": "25-34",
-    "education": "Graduate or Professional degree (for example: MA, MS, MEng, MEd, MSW, MBA, MD, DDS, DVM, LLB, JD, PhD, EdD)",
+    "education": "8-Graduate or Professional degree",
     "diagnosis": "I do not suffer from any of the following conditions",
     "impairment": "",
     "minority-group": "Prefer not to answer"
@@ -498,7 +498,7 @@
     "lgbq+": "No",
     "racial-ethnic": "American Indian or Alaska Native",
     "age-group": "25-34",
-    "education": "Graduate or Professional degree (for example: MA, MS, MEng, MEd, MSW, MBA, MD, DDS, DVM, LLB, JD, PhD, EdD)",
+    "education": "8-Graduate or Professional degree",
     "diagnosis": "I do not suffer from any of the following conditions",
     "impairment": "",
     "minority-group": "No"
@@ -512,7 +512,7 @@
     "lgbq+": "No",
     "racial-ethnic": "Native Hawaiian or other Pacific Islander",
     "age-group": "25-34",
-    "education": "Graduate or Professional degree (for example: MA, MS, MEng, MEd, MSW, MBA, MD, DDS, DVM, LLB, JD, PhD, EdD)",
+    "education": "8-Graduate or Professional degree",
     "diagnosis": "I do not suffer from any of the following conditions",
     "impairment": "",
     "minority-group": "No"
@@ -526,7 +526,7 @@
     "lgbq+": "No",
     "racial-ethnic": "Indian",
     "age-group": "25-34",
-    "education": "Graduate or Professional degree (for example: MA, MS, MEng, MEd, MSW, MBA, MD, DDS, DVM, LLB, JD, PhD, EdD)",
+    "education": "8-Graduate or Professional degree",
     "diagnosis": "I do not suffer from any of the following conditions",
     "impairment": "",
     "minority-group": "No"
@@ -540,7 +540,7 @@
     "lgbq+": "No",
     "racial-ethnic": "White",
     "age-group": "25-34",
-    "education": "Graduate or Professional degree (for example: MA, MS, MEng, MEd, MSW, MBA, MD, DDS, DVM, LLB, JD, PhD, EdD)",
+    "education": "8-Graduate or Professional degree",
     "diagnosis": "I do not suffer from any of the following conditions",
     "impairment": "",
     "minority-group": "No"
@@ -554,7 +554,7 @@
     "lgbq+": "No",
     "racial-ethnic": "Asian",
     "age-group": "25-34",
-    "education": "High school (degree or GED) or some college (no degree)",
+    "education": "3-High school",
     "diagnosis": "I do not suffer from any of the following conditions",
     "impairment": "",
     "minority-group": "No"
@@ -568,7 +568,7 @@
     "lgbq+": "No",
     "racial-ethnic": "Latino, Hispanic or Spanish Origin",
     "age-group": "25-34",
-    "education": "College degree - Associate or Bachelor’s (for example: AA, AS, BA, BS)",
+    "education": "6-College degree",
     "diagnosis": "I do not suffer from any of the following conditions",
     "impairment": "",
     "minority-group": "No"
@@ -582,7 +582,7 @@
     "lgbq+": "No",
     "racial-ethnic": "White",
     "age-group": "25-34",
-    "education": "Graduate or Professional degree (for example: MA, MS, MEng, MEd, MSW, MBA, MD, DDS, DVM, LLB, JD, PhD, EdD)",
+    "education": "8-Graduate or Professional degree",
     "diagnosis": "I do not suffer from any of the following conditions",
     "impairment": "",
     "minority-group": "No"
@@ -596,7 +596,7 @@
     "lgbq+": "No",
     "racial-ethnic": "Black or African American",
     "age-group": "25-34",
-    "education": "College degree - Associate or Bachelor’s (for example: AA, AS, BA, BS)",
+    "education": "6-College degree",
     "diagnosis": "I do not suffer from any of the following conditions",
     "impairment": "",
     "minority-group": "No"
@@ -610,7 +610,7 @@
     "lgbq+": "No",
     "racial-ethnic": "Indian",
     "age-group": "25-34",
-    "education": "Masters degree (e.g. MA, MSc, MTech)",
+    "education": "7- Masters degree",
     "diagnosis": "Speech impairment",
     "impairment": "Speech difficulty",
     "minority-group": ""
@@ -624,7 +624,7 @@
     "lgbq+": "No",
     "racial-ethnic": "Indian",
     "age-group": "25-34",
-    "education": "College degree - Associate or Bachelor’s (for example: AA, AS, BA, BS)",
+    "education": "6-College degree",
     "diagnosis": "Hearing loss",
     "impairment": "Speech difficulty",
     "minority-group": ""
@@ -638,7 +638,7 @@
     "lgbq+": "No",
     "racial-ethnic": "American Indian or Alaska Native",
     "age-group": "25-34",
-    "education": "Graduate or Professional degree (for example: MA, MS, MEng, MEd, MSW, MBA, MD, DDS, DVM, LLB, JD, PhD, EdD)",
+    "education": "8-Graduate or Professional degree",
     "diagnosis": "",
     "impairment": "",
     "minority-group": ""
@@ -652,7 +652,7 @@
     "lgbq+": "No",
     "racial-ethnic": "Indian",
     "age-group": "25-34",
-    "education": "College degree - Associate or Bachelor’s (for example: AA, AS, BA, BS)",
+    "education": "6-College degree",
     "diagnosis": "Physical disability i.e. something that affects your mobility, physical capacity, stamina, or dexterity",
     "impairment": "motor difficulty",
     "minority-group": ""
@@ -666,7 +666,7 @@
     "lgbq+": "No",
     "racial-ethnic": "White",
     "age-group": "25-34",
-    "education": "Less than a high school degree",
+    "education": "2-Less than a high school degree",
     "diagnosis": "",
     "impairment": "",
     "minority-group": ""
@@ -680,7 +680,7 @@
     "lgbq+": "No",
     "racial-ethnic": "Black or African American",
     "age-group": "25-34",
-    "education": "Graduate or Professional degree (for example: MA, MS, MEng, MEd, MSW, MBA, MD, DDS, DVM, LLB, JD, PhD, EdD)",
+    "education": "8-Graduate or Professional degree",
     "diagnosis": "Yes",
     "impairment": "",
     "minority-group": ""
@@ -694,7 +694,7 @@
     "lgbq+": "No",
     "racial-ethnic": "Indian",
     "age-group": "25-34",
-    "education": "Masters degree (e.g. MA, MSc, MTech)",
+    "education": "7- Masters degree",
     "diagnosis": "I do not suffer from any of the following conditions",
     "impairment": "No",
     "minority-group": ""
@@ -708,7 +708,7 @@
     "lgbq+": "No",
     "racial-ethnic": "Indian",
     "age-group": "25-34",
-    "education": "College degree - Associate or Bachelor’s (for example: AA, AS, BA, BS)",
+    "education": "6-College degree",
     "diagnosis": "Physical disability i.e. something that affects your mobility, physical capacity, stamina, or dexterity",
     "impairment": "Motor difficulty",
     "minority-group": ""
@@ -722,7 +722,7 @@
     "lgbq+": "No",
     "racial-ethnic": "Latino, Hispanic or Spanish Origin",
     "age-group": "25-34",
-    "education": "College degree - Associate or Bachelor’s (for example: AA, AS, BA, BS)",
+    "education": "6-College degree",
     "diagnosis": "Yes",
     "impairment": "",
     "minority-group": ""
@@ -736,7 +736,7 @@
     "lgbq+": "No",
     "racial-ethnic": "Middle Eastern or North African",
     "age-group": "25-34",
-    "education": "Graduate or Professional degree (for example: MA, MS, MEng, MEd, MSW, MBA, MD, DDS, DVM, LLB, JD, PhD, EdD)",
+    "education": "8-Graduate or Professional degree",
     "diagnosis": "Yes",
     "impairment": "",
     "minority-group": ""
@@ -750,7 +750,7 @@
     "lgbq+": "No",
     "racial-ethnic": "Indian",
     "age-group": "25-34",
-    "education": "Intermediate or equivalent (Technical/Diploma)",
+    "education": "5-Intermediate or equivalent Technical/Diploma",
     "diagnosis": "Visual impairment",
     "impairment": "Vision disability",
     "minority-group": ""
@@ -764,7 +764,7 @@
     "lgbq+": "No",
     "racial-ethnic": "Indian",
     "age-group": "25-34",
-    "education": "College degree - Associate or Bachelor’s (for example: AA, AS, BA, BS)",
+    "education": "6-College degree",
     "diagnosis": "Hearing loss",
     "impairment": "Hard of hearing or D/deaf",
     "minority-group": ""
@@ -778,7 +778,7 @@
     "lgbq+": "No",
     "racial-ethnic": "Indian",
     "age-group": "25-34",
-    "education": "College degree - Associate or Bachelor’s (for example: AA, AS, BA, BS)",
+    "education": "6-College degree",
     "diagnosis": "Visual impairment",
     "impairment": "Vision disability",
     "minority-group": ""
@@ -792,7 +792,7 @@
     "lgbq+": "No",
     "racial-ethnic": "Indian",
     "age-group": "35-44",
-    "education": "Graduate or Professional degree (for example: MA, MS, MEng, MEd, MSW, MBA, MD, DDS, DVM, LLB, JD, PhD, EdD)",
+    "education": "8-Graduate or Professional degree",
     "diagnosis": "I do not suffer from any of the following conditions",
     "impairment": "",
     "minority-group": "No"
@@ -806,7 +806,7 @@
     "lgbq+": "No",
     "racial-ethnic": "Indian",
     "age-group": "35-44",
-    "education": "Graduate or Professional degree (for example: MA, MS, MEng, MEd, MSW, MBA, MD, DDS, DVM, LLB, JD, PhD, EdD)",
+    "education": "8-Graduate or Professional degree",
     "diagnosis": "I do not suffer from any of the following conditions",
     "impairment": "",
     "minority-group": "No"
@@ -820,7 +820,7 @@
     "lgbq+": "No",
     "racial-ethnic": "Indian",
     "age-group": "35-44",
-    "education": "College degree - Associate or Bachelor’s (for example: AA, AS, BA, BS)",
+    "education": "6-College degree",
     "diagnosis": "I do not suffer from any of the following conditions",
     "impairment": "",
     "minority-group": "No"
@@ -834,7 +834,7 @@
     "lgbq+": "No",
     "racial-ethnic": "Indian",
     "age-group": "35-44",
-    "education": "Graduate or Professional degree (for example: MA, MS, MEng, MEd, MSW, MBA, MD, DDS, DVM, LLB, JD, PhD, EdD)",
+    "education": "8-Graduate or Professional degree",
     "diagnosis": "I do not suffer from any of the following conditions",
     "impairment": "",
     "minority-group": "No"
@@ -848,7 +848,7 @@
     "lgbq+": "No",
     "racial-ethnic": "Indian",
     "age-group": "35-44",
-    "education": "College degree - Associate or Bachelor’s (for example: AA, AS, BA, BS)",
+    "education": "6-College degree",
     "diagnosis": "I do not suffer from any of the following conditions",
     "impairment": "",
     "minority-group": "No"
@@ -862,7 +862,7 @@
     "lgbq+": "No",
     "racial-ethnic": "Indian",
     "age-group": "35-44",
-    "education": "Graduate or Professional degree (for example: MA, MS, MEng, MEd, MSW, MBA, MD, DDS, DVM, LLB, JD, PhD, EdD)",
+    "education": "8-Graduate or Professional degree",
     "diagnosis": "I do not suffer from any of the following conditions",
     "impairment": "",
     "minority-group": "No"
@@ -876,7 +876,7 @@
     "lgbq+": "No",
     "racial-ethnic": "Indian",
     "age-group": "35-44",
-    "education": "College degree - Associate or Bachelor’s (for example: AA, AS, BA, BS)",
+    "education": "6-College degree",
     "diagnosis": "I do not suffer from any of the following conditions",
     "impairment": "",
     "minority-group": "No"
@@ -890,7 +890,7 @@
     "lgbq+": "No",
     "racial-ethnic": "White",
     "age-group": "35-44",
-    "education": "Graduate or Professional degree (for example: MA, MS, MEng, MEd, MSW, MBA, MD, DDS, DVM, LLB, JD, PhD, EdD)",
+    "education": "8-Graduate or Professional degree",
     "diagnosis": "I do not suffer from any of the following conditions",
     "impairment": "",
     "minority-group": "No"
@@ -904,7 +904,7 @@
     "lgbq+": "No",
     "racial-ethnic": "Middle Eastern or North African",
     "age-group": "35-44",
-    "education": "College degree - Associate or Bachelor’s (for example: AA, AS, BA, BS)",
+    "education": "6-College degree",
     "diagnosis": "I do not suffer from any of the following conditions",
     "impairment": "",
     "minority-group": "Yes"
@@ -918,7 +918,7 @@
     "lgbq+": "No",
     "racial-ethnic": "White",
     "age-group": "35-44",
-    "education": "High school (degree or GED) or some college (no degree)",
+    "education": "3-High school",
     "diagnosis": "I do not suffer from any of the following conditions",
     "impairment": "",
     "minority-group": "No"
@@ -932,7 +932,7 @@
     "lgbq+": "No",
     "racial-ethnic": "Latino, Hispanic or Spanish Origin",
     "age-group": "35-44",
-    "education": "College degree - Associate or Bachelor’s (for example: AA, AS, BA, BS)",
+    "education": "6-College degree",
     "diagnosis": "I do not suffer from any of the following conditions",
     "impairment": "",
     "minority-group": "No"
@@ -946,7 +946,7 @@
     "lgbq+": "No",
     "racial-ethnic": "Latino, Hispanic or Spanish Origin",
     "age-group": "35-44",
-    "education": "College degree - Associate or Bachelor’s (for example: AA, AS, BA, BS)",
+    "education": "6-College degree",
     "diagnosis": "I do not suffer from any of the following conditions",
     "impairment": "",
     "minority-group": "No"
@@ -960,7 +960,7 @@
     "lgbq+": "No",
     "racial-ethnic": "Latino, Hispanic or Spanish Origin",
     "age-group": "35-44",
-    "education": "Graduate or Professional degree (for example: MA, MS, MEng, MEd, MSW, MBA, MD, DDS, DVM, LLB, JD, PhD, EdD)",
+    "education": "8-Graduate or Professional degree",
     "diagnosis": "I do not suffer from any of the following conditions",
     "impairment": "",
     "minority-group": "No"
@@ -974,7 +974,7 @@
     "lgbq+": "No",
     "racial-ethnic": "Latino, Hispanic or Spanish Origin",
     "age-group": "35-44",
-    "education": "College degree - Associate or Bachelor’s (for example: AA, AS, BA, BS)",
+    "education": "6-College degree",
     "diagnosis": "I do not suffer from any of the following conditions",
     "impairment": "",
     "minority-group": "Yes"
@@ -988,7 +988,7 @@
     "lgbq+": "No",
     "racial-ethnic": "Asian",
     "age-group": "35-44",
-    "education": "Graduate or Professional degree (for example: MA, MS, MEng, MEd, MSW, MBA, MD, DDS, DVM, LLB, JD, PhD, EdD)",
+    "education": "8-Graduate or Professional degree",
     "diagnosis": "I do not suffer from any of the following conditions",
     "impairment": "",
     "minority-group": "No"
@@ -1002,7 +1002,7 @@
     "lgbq+": "No",
     "racial-ethnic": "Black or African American",
     "age-group": "35-44",
-    "education": "High school (degree or GED) or some college (no degree)",
+    "education": "3-High school",
     "diagnosis": "I do not suffer from any of the following conditions",
     "impairment": "",
     "minority-group": "No"
@@ -1016,7 +1016,7 @@
     "lgbq+": "No",
     "racial-ethnic": "Mixed",
     "age-group": "35-44",
-    "education": "College degree - Associate or Bachelor’s (for example: AA, AS, BA, BS)",
+    "education": "6-College degree",
     "diagnosis": "I do not suffer from any of the following conditions",
     "impairment": "",
     "minority-group": "Yes"
@@ -1030,7 +1030,7 @@
     "lgbq+": "Yes",
     "racial-ethnic": "White",
     "age-group": "35-44",
-    "education": "College degree - Associate or Bachelor’s (for example: AA, AS, BA, BS)",
+    "education": "6-College degree",
     "diagnosis": "I do not suffer from any of the following conditions",
     "impairment": "",
     "minority-group": "No"
@@ -1044,7 +1044,7 @@
     "lgbq+": "Yes",
     "racial-ethnic": "American Indian or Alaska Native",
     "age-group": "35-44",
-    "education": "College degree - Associate or Bachelor’s (for example: AA, AS, BA, BS)",
+    "education": "6-College degree",
     "diagnosis": "I do not suffer from any of the following conditions",
     "impairment": "",
     "minority-group": "Yes"
@@ -1058,7 +1058,7 @@
     "lgbq+": "No",
     "racial-ethnic": "White",
     "age-group": "35-44",
-    "education": "Graduate or Professional degree (for example: MA, MS, MEng, MEd, MSW, MBA, MD, DDS, DVM, LLB, JD, PhD, EdD)",
+    "education": "8-Graduate or Professional degree",
     "diagnosis": "Yes",
     "impairment": "",
     "minority-group": ""
@@ -1072,7 +1072,7 @@
     "lgbq+": "No",
     "racial-ethnic": "White",
     "age-group": "35-44",
-    "education": "College degree - Associate or Bachelor’s (for example: AA, AS, BA, BS)",
+    "education": "6-College degree",
     "diagnosis": "",
     "impairment": "",
     "minority-group": ""
@@ -1086,7 +1086,7 @@
     "lgbq+": "No",
     "racial-ethnic": "White",
     "age-group": "35-44",
-    "education": "Less than a high school degree",
+    "education": "2-Less than a high school degree",
     "diagnosis": "",
     "impairment": "",
     "minority-group": ""
@@ -1100,7 +1100,7 @@
     "lgbq+": "No",
     "racial-ethnic": "Native Hawaiian or other Pacific Islander",
     "age-group": "35-44",
-    "education": "College degree - Associate or Bachelor’s (for example: AA, AS, BA, BS)",
+    "education": "6-College degree",
     "diagnosis": "Yes",
     "impairment": "",
     "minority-group": ""
@@ -1114,7 +1114,7 @@
     "lgbq+": "No",
     "racial-ethnic": "Indian",
     "age-group": "35-44",
-    "education": "College degree - Associate or Bachelor’s (for example: AA, AS, BA, BS)",
+    "education": "6-College degree",
     "diagnosis": "Visual impairment",
     "impairment": "Vision disability",
     "minority-group": "Yes"
@@ -1128,7 +1128,7 @@
     "lgbq+": "No",
     "racial-ethnic": "Indian",
     "age-group": "45-54",
-    "education": "College degree - Associate or Bachelor’s (for example: AA, AS, BA, BS)",
+    "education": "6-College degree",
     "diagnosis": "I do not suffer from any of the following conditions",
     "impairment": "",
     "minority-group": "No"
@@ -1142,7 +1142,7 @@
     "lgbq+": "No",
     "racial-ethnic": "Indian",
     "age-group": "45-54",
-    "education": "Below class 12",
+    "education": "1-Below class 12",
     "diagnosis": "I do not suffer from any of the following conditions",
     "impairment": "",
     "minority-group": "No"
@@ -1156,7 +1156,7 @@
     "lgbq+": "No",
     "racial-ethnic": "Indian",
     "age-group": "45-54",
-    "education": "Below class 12",
+    "education": "1-Below class 12",
     "diagnosis": "I do not suffer from any of the following conditions",
     "impairment": "",
     "minority-group": "No"
@@ -1170,7 +1170,7 @@
     "lgbq+": "No",
     "racial-ethnic": "Indian",
     "age-group": "45-54",
-    "education": "Graduate or Professional degree (for example: MA, MS, MEng, MEd, MSW, MBA, MD, DDS, DVM, LLB, JD, PhD, EdD)",
+    "education": "8-Graduate or Professional degree",
     "diagnosis": "I do not suffer from any of the following conditions",
     "impairment": "",
     "minority-group": "No"
@@ -1184,7 +1184,7 @@
     "lgbq+": "No",
     "racial-ethnic": "Indian",
     "age-group": "45-54",
-    "education": "Graduate or Professional degree (for example: MA, MS, MEng, MEd, MSW, MBA, MD, DDS, DVM, LLB, JD, PhD, EdD)",
+    "education": "8-Graduate or Professional degree",
     "diagnosis": "Prefer not to say",
     "impairment": "",
     "minority-group": "No"
@@ -1198,7 +1198,7 @@
     "lgbq+": "Prefer not to answer",
     "racial-ethnic": "Indian",
     "age-group": "45-54",
-    "education": "Graduate or Professional degree (for example: MA, MS, MEng, MEd, MSW, MBA, MD, DDS, DVM, LLB, JD, PhD, EdD)",
+    "education": "8-Graduate or Professional degree",
     "diagnosis": "I do not suffer from any of the following conditions",
     "impairment": "",
     "minority-group": "Prefer not to answer"
@@ -1212,7 +1212,7 @@
     "lgbq+": "No",
     "racial-ethnic": "Indian",
     "age-group": "45-54",
-    "education": "Below class 12",
+    "education": "1-Below class 12",
     "diagnosis": "I do not suffer from any of the following conditions",
     "impairment": "",
     "minority-group": "No"
@@ -1226,7 +1226,7 @@
     "lgbq+": "Yes",
     "racial-ethnic": "White",
     "age-group": "45-54",
-    "education": "College degree - Associate or Bachelor’s (for example: AA, AS, BA, BS)",
+    "education": "6-College degree",
     "diagnosis": "Other",
     "impairment": "",
     "minority-group": "No"
@@ -1240,7 +1240,7 @@
     "lgbq+": "No",
     "racial-ethnic": "Black or African American",
     "age-group": "45-54",
-    "education": "High school (degree or GED) or some college (no degree)",
+    "education": "3-High school",
     "diagnosis": "I do not suffer from any of the following conditions",
     "impairment": "",
     "minority-group": "No"
@@ -1254,7 +1254,7 @@
     "lgbq+": "No",
     "racial-ethnic": "Black or African American",
     "age-group": "45-54",
-    "education": "College degree - Associate or Bachelor’s (for example: AA, AS, BA, BS)",
+    "education": "6-College degree",
     "diagnosis": "I do not suffer from any of the following conditions",
     "impairment": "",
     "minority-group": "No"
@@ -1268,7 +1268,7 @@
     "lgbq+": "No",
     "racial-ethnic": "White",
     "age-group": "45-54",
-    "education": "Graduate or Professional degree (for example: MA, MS, MEng, MEd, MSW, MBA, MD, DDS, DVM, LLB, JD, PhD, EdD)",
+    "education": "8-Graduate or Professional degree",
     "diagnosis": "I do not suffer from any of the following conditions",
     "impairment": "",
     "minority-group": "No"
@@ -1282,7 +1282,7 @@
     "lgbq+": "No",
     "racial-ethnic": "Indian",
     "age-group": "45-54",
-    "education": "College degree - Associate or Bachelor’s (for example: AA, AS, BA, BS)",
+    "education": "6-College degree",
     "diagnosis": "I do not suffer from any of the following conditions",
     "impairment": "No",
     "minority-group": ""
@@ -1296,7 +1296,7 @@
     "lgbq+": "No",
     "racial-ethnic": "Indian",
     "age-group": "45-54",
-    "education": "Under graduate / Some college but no degree",
+    "education": "4-Under graduate",
     "diagnosis": "I do not suffer from any of the following conditions",
     "impairment": "No",
     "minority-group": ""
@@ -1310,7 +1310,7 @@
     "lgbq+": "No",
     "racial-ethnic": "Indian",
     "age-group": "55-64",
-    "education": "College degree - Associate or Bachelor’s (for example: AA, AS, BA, BS)",
+    "education": "6-College degree",
     "diagnosis": "I do not suffer from any of the following conditions",
     "impairment": "",
     "minority-group": "No"
@@ -1324,7 +1324,7 @@
     "lgbq+": "No",
     "racial-ethnic": "Indian",
     "age-group": "55-64",
-    "education": "Graduate or Professional degree (for example: MA, MS, MEng, MEd, MSW, MBA, MD, DDS, DVM, LLB, JD, PhD, EdD)",
+    "education": "8-Graduate or Professional degree",
     "diagnosis": "I do not suffer from any of the following conditions",
     "impairment": "",
     "minority-group": "No"
@@ -1338,7 +1338,7 @@
     "lgbq+": "No",
     "racial-ethnic": "White",
     "age-group": "55-64",
-    "education": "High school (degree or GED) or some college (no degree)",
+    "education": "3-High school",
     "diagnosis": "I do not suffer from any of the following conditions",
     "impairment": "",
     "minority-group": "No"
@@ -1352,7 +1352,7 @@
     "lgbq+": "Prefer not to answer",
     "racial-ethnic": "White",
     "age-group": "55-64",
-    "education": "Graduate or Professional degree (for example: MA, MS, MEng, MEd, MSW, MBA, MD, DDS, DVM, LLB, JD, PhD, EdD)",
+    "education": "8-Graduate or Professional degree",
     "diagnosis": "I do not suffer from any of the following conditions",
     "impairment": "",
     "minority-group": "No"
@@ -1366,7 +1366,7 @@
     "lgbq+": "No",
     "racial-ethnic": "Indian",
     "age-group": "65-74",
-    "education": "College degree - Associate or Bachelor’s (for example: AA, AS, BA, BS)",
+    "education": "6-College degree",
     "diagnosis": "I do not suffer from any of the following conditions",
     "impairment": "",
     "minority-group": "No"
@@ -1380,7 +1380,7 @@
     "lgbq+": "No",
     "racial-ethnic": "Indian",
     "age-group": "65-74",
-    "education": "High school (degree or GED) or some college (no degree)",
+    "education": "3-High school",
     "diagnosis": "I do not suffer from any of the following conditions",
     "impairment": "",
     "minority-group": "No"
@@ -1394,7 +1394,7 @@
     "lgbq+": "Yes",
     "racial-ethnic": "White",
     "age-group": "65-74",
-    "education": "College degree - Associate or Bachelor’s (for example: AA, AS, BA, BS)",
+    "education": "6-College degree",
     "diagnosis": "I do not suffer from any of the following conditions",
     "impairment": "",
     "minority-group": "No"
@@ -1408,7 +1408,7 @@
     "lgbq+": "No",
     "racial-ethnic": "White",
     "age-group": "65-74",
-    "education": "Graduate or Professional degree (for example: MA, MS, MEng, MEd, MSW, MBA, MD, DDS, DVM, LLB, JD, PhD, EdD)",
+    "education": "8-Graduate or Professional degree",
     "diagnosis": "",
     "impairment": "",
     "minority-group": ""
@@ -1422,7 +1422,7 @@
     "lgbq+": "No",
     "racial-ethnic": "Indian",
     "age-group": "65-74",
-    "education": "College degree - Associate or Bachelor’s (for example: AA, AS, BA, BS)",
+    "education": "6-College degree",
     "diagnosis": "I do not suffer from any of the following conditions",
     "impairment": "No",
     "minority-group": "Yes"
