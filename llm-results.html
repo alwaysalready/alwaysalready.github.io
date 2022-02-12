@@ -2,16 +2,16 @@
 <html>
 <head>
   <link rel="stylesheet" href="https://cdn.rawgit.com/Chalarangelo/mini.css/v3.0.1/dist/mini-default.min.css">
-  <script src="https://cdn.jsdelivr.net/npm/vega@5.21.0"></script>
-  <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.2.0"></script>
-  <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.20.0"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
 </head>
 <body>
-
+  <div id="vis"></div>
   <div class="container">
     <div class="row">
-      <div class="col-sm-6">
-        <div id="vis"/>
+      <div class="col-sm-12">
+        
       </div>
     </div>
   </div>
@@ -19,8 +19,8 @@
     const spec = {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json",
   "data": {"url": "https://globaltechandsociety.red//survey-results.json"},
-  "height": 400,
-  "width": 1000,
+  "height": 250,
+  "width": "container",
   "encoding": {
     "x": {"field": "region", "axis": {"offset": 0}},
     "y": {

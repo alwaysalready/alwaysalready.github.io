@@ -50,7 +50,7 @@
    "gender": "Male",
    "lgbq+": "No",
    "age-group": "65-74",
-   "age-group-cond": "55-over",
+   "age-group-cond": "45-over",
    "education": "6-College degree",
    "edu-cond": "2-Graduate or diploma"
  },
@@ -61,7 +61,7 @@
    "gender": "Male",
    "lgbq+": "No",
    "age-group": "45-54",
-   "age-group-cond": "45-54",
+   "age-group-cond": "45-over",
    "education": "6-College degree",
    "edu-cond": "2-Graduate or diploma"
  },
@@ -171,7 +171,7 @@
    "gender": "Female",
    "lgbq+": "No",
    "age-group": "45-54",
-   "age-group-cond": "45-54",
+   "age-group-cond": "45-over",
    "education": "4-Under graduate",
    "edu-cond": "2-Graduate or diploma"
  },
@@ -281,7 +281,7 @@
    "gender": "Female",
    "lgbq+": "No",
    "age-group": "65-74",
-   "age-group-cond": "55-over",
+   "age-group-cond": "45-over",
    "education": "8-Graduate or Professional degree",
    "edu-cond": "3- Postgraduate or professional"
  },
@@ -380,7 +380,7 @@
    "gender": "Male",
    "lgbq+": "No",
    "age-group": "45-54",
-   "age-group-cond": "45-54",
+   "age-group-cond": "45-over",
    "education": "6-College degree",
    "edu-cond": "2-Graduate or diploma"
  },
@@ -402,7 +402,7 @@
    "gender": "Male",
    "lgbq+": "No",
    "age-group": "45-54",
-   "age-group-cond": "45-54",
+   "age-group-cond": "45-over",
    "education": "1-Below class 12",
    "edu-cond": "1-High school or below"
  },
@@ -501,7 +501,7 @@
    "gender": "Male",
    "lgbq+": "No",
    "age-group": "45-54",
-   "age-group-cond": "45-54",
+   "age-group-cond": "45-over",
    "education": "8-Graduate or Professional degree",
    "edu-cond": "3- Postgraduate or professional"
  },
@@ -512,7 +512,7 @@
    "gender": "Male",
    "lgbq+": "Prefer not to answer",
    "age-group": "45-54",
-   "age-group-cond": "45-54",
+   "age-group-cond": "45-over",
    "education": "8-Graduate or Professional degree",
    "edu-cond": "3- Postgraduate or professional"
  },
@@ -534,7 +534,7 @@
    "gender": "Male",
    "lgbq+": "No",
    "age-group": "55-64",
-   "age-group-cond": "55-over",
+   "age-group-cond": "45-over",
    "education": "8-Graduate or Professional degree",
    "edu-cond": "3- Postgraduate or professional"
  },
@@ -589,7 +589,7 @@
    "gender": "Female",
    "lgbq+": "No",
    "age-group": "45-54",
-   "age-group-cond": "45-54",
+   "age-group-cond": "45-over",
    "education": "1-Below class 12",
    "edu-cond": "1-High school or below"
  },
@@ -644,7 +644,7 @@
    "gender": "Female",
    "lgbq+": "No",
    "age-group": "65-74",
-   "age-group-cond": "55-over",
+   "age-group-cond": "45-over",
    "education": "6-College degree",
    "edu-cond": "2-Graduate or diploma"
  },
@@ -677,7 +677,7 @@
    "gender": "Female",
    "lgbq+": "No",
    "age-group": "55-64",
-   "age-group-cond": "55-over",
+   "age-group-cond": "45-over",
    "education": "6-College degree",
    "edu-cond": "2-Graduate or diploma"
  },
@@ -688,7 +688,7 @@
    "gender": "Female",
    "lgbq+": "No",
    "age-group": "45-54",
-   "age-group-cond": "45-54",
+   "age-group-cond": "45-over",
    "education": "8-Graduate or Professional degree",
    "edu-cond": "3- Postgraduate or professional"
  },
@@ -710,7 +710,7 @@
    "gender": "Female",
    "lgbq+": "No",
    "age-group": "65-74",
-   "age-group-cond": "55-over",
+   "age-group-cond": "45-over",
    "education": "3-High school",
    "edu-cond": "1-High school or below"
  },
@@ -721,7 +721,7 @@
    "gender": "Female",
    "lgbq+": "No",
    "age-group": "45-54",
-   "age-group-cond": "45-54",
+   "age-group-cond": "45-over",
    "education": "1-Below class 12",
    "edu-cond": "1-High school or below"
  },
@@ -776,7 +776,7 @@
    "gender": "Male",
    "lgbq+": "Prefer not to answer",
    "age-group": "55-64",
-   "age-group-cond": "55-over",
+   "age-group-cond": "45-over",
    "education": "8-Graduate or Professional degree",
    "edu-cond": "3- Postgraduate or professional"
  },
@@ -809,7 +809,7 @@
    "gender": "Male",
    "lgbq+": "Yes",
    "age-group": "65-74",
-   "age-group-cond": "55-over",
+   "age-group-cond": "45-over",
    "education": "6-College degree",
    "edu-cond": "2-Graduate or diploma"
  },
@@ -831,7 +831,7 @@
    "gender": "Male",
    "lgbq+": "No",
    "age-group": "45-54",
-   "age-group-cond": "45-54",
+   "age-group-cond": "45-over",
    "education": "6-College degree",
    "edu-cond": "2-Graduate or diploma"
  },
@@ -919,7 +919,7 @@
    "gender": "Female",
    "lgbq+": "No",
    "age-group": "55-64",
-   "age-group-cond": "55-over",
+   "age-group-cond": "45-over",
    "education": "3-High school",
    "edu-cond": "1-High school or below"
  },
@@ -1029,7 +1029,7 @@
    "gender": "Female",
    "lgbq+": "Yes",
    "age-group": "45-54",
-   "age-group-cond": "45-54",
+   "age-group-cond": "45-over",
    "education": "6-College degree",
    "edu-cond": "2-Graduate or diploma"
  },
@@ -1040,7 +1040,7 @@
    "gender": "Female",
    "lgbq+": "No",
    "age-group": "45-54",
-   "age-group-cond": "45-54",
+   "age-group-cond": "45-over",
    "education": "3-High school",
    "edu-cond": "1-High school or below"
  },
@@ -1117,7 +1117,7 @@
    "gender": "Female",
    "lgbq+": "No",
    "age-group": "45-54",
-   "age-group-cond": "45-54",
+   "age-group-cond": "45-over",
    "education": "8-Graduate or Professional degree",
    "edu-cond": "3- Postgraduate or professional"
  },
